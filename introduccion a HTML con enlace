@@ -1,0 +1,19 @@
+Ejercicio de introccu
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de introduccion a HTML en OpenBootcamp</title>
+    </head>
+        <body>
+            <p>Este es  mi primer comentario de dos lineas</p>
+            <p>Aprendiendo a documentar mi codigo con OpenBootcamp</p>
+            <ul>
+            <li><a href="https://www.youtube.com/watch?v=8SbUC-UaAxE&ab_channel=GunsNRosesVEVO" > 
+                gun's and roses - November rain VEVO </a></li><br>
+            <li><a href="https://www.youtube.com/watch?v=9BMwcO6_hyA&ab_channel=BonJoviVEVO" >
+                bon jovi - Always VEVO </a></li><br>
+            <li><a href="https://www.youtube.com/watch?v=XjFsZj1aHow&ab_channel=ScorpionsVEVO" > 
+                scorpion - wind of change </a></li><br>
+            </ul>
+        </body>
+</html>
