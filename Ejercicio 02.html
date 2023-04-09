@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Formulario en HTML</title>
+  </head>
+  <body>
+    <form action="/">
+      <!--un campo de texto llamado nombre-->
+      <div>
+        <label for="usuario">nombre de usuario</label><br />
+        <input type="text" name="usuario" id="usuario" />
+      </div>
+      <br />
+      <!--un campo numerico llamado edad -->
+      <div>
+        <label for="edad">cual es tu edad</label><br />
+        <input type="number" name="edad" id="edad" min="0" max="120" />
+      </div>
+      <br />
+      <!--un campo de area de texto llamado "frase favorita"-->
+      <div>
+        <label for="comentario">frase favorita</label><br />
+        <textarea type="text" name="comentario" id="comentario"></textarea>
+      </div>
+      <br />
+      <button for="submit">enviar</button>
+      <button for="reset">reset</button>
+      
+    </form>
+  </body>
+</html>
